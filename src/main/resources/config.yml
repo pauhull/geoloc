@@ -1,0 +1,21 @@
+# GeoLoc Config
+
+OnlyFirstJoin: True
+# Change to False if the message should be shown every time a player joins
+
+CouldNotResolveLocation: "&cLocation of user %USER% couldn't be resolved."
+# %USER%          - Username
+# %DISPLAY%       - Displayname
+
+Message: "&f%USER% is from %REGION%, %COUNTRY%, %CONTINENT%"
+# %USER%          - Username
+# %DISPLAY%       - Displayname
+# %CITY%          - City
+# %REGION%        - Region
+# %REGIONCODE%    - Region Code
+# %COUNTRY%       - Country
+# %COUNTRYCODE%   - Country Code
+# %CONTINENT%     - Continent
+# %CONTINENTCODE% - Continent code
+# %IP%            - IP Address
+# You can add color codes with '&'.
